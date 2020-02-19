@@ -5,7 +5,7 @@
 
 ## Contributors: 
 
-[Michael Pallante](https://github.com/MFAP9)
+[Michael Pallante](https://github.com/michaelpallante)
 <br>
 [Nick Zauner](https://github.com/nzauner)
 
