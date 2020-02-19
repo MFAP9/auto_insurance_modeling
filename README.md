@@ -27,9 +27,9 @@ influences the likelihood of a car crash. Then subsequently, we will be able to 
 
 **Python Notebooks:**
 <br>
-[Exploratory Data Analysis](https://github.com/nzauner/Auto_Insurance/blob/master/notebooks/auto_insurance_eda.ipynb)
+[Exploratory Data Analysis](https://github.com/michaelpallante/auto_insurance_modeling/blob/master/notebooks/auto_insurance_eda.ipynb)
 <br>
-[Technical Notebook](https://github.com/nzauner/Auto_Insurance/blob/master/notebooks/auto_insurance_technical_notebook.ipynb)
+[Technical Notebook](https://github.com/michaelpallante/auto_insurance_modeling/blob/master/notebooks/auto_insurance_technical_notebook.ipynb)
 
 **Presentation:**
 <br>
@@ -38,8 +38,8 @@ influences the likelihood of a car crash. Then subsequently, we will be able to 
 
 **Data Folder (all downloaded data and modified datasets used in our notebooks):**
 <br>
-[Data](https://github.com/nzauner/Auto_Insurance/tree/master/data)
+[Data](https://github.com/michaelpallante/auto_insurance_modeling/tree/master/data)
 
 **Python Files Folder (any python files used in our notebooks):**
 <br>
-[Python Files](https://github.com/nzauner/Auto_Insurance/tree/master/python_files)
+[Python Files](https://github.com/michaelpallante/auto_insurance_modeling/tree/master/python_files)
